@@ -20,18 +20,11 @@
 
 ## 🧭 About Me
 
-```yaml
-name: "Aravinthan Aravazhi"
-role: "Software Engineer & Product Lead"
-location: "Chennai, Tamil Nadu, India"
-experience: "1.5+ years"
-currently_building:
-  - "Multi-tenant SaaS products @ JBB Softech"
-  - "Enterprise HRMS foundation (Microsoft Entra ID + Graph API)"
-  - "Multi-account AWS control platform (real EC2 + billing ops)"
-focus: ["Full-Stack Development", "AI-Integrated Products", "Cloud & DevOps"]
-fun_fact: "I ship end-to-end — schema to UI to AWS deployment."
-```
+I'm a Software Engineer and Product Lead based in Chennai, India, with 1.5+ years of experience designing and shipping full-stack, multi-tenant SaaS products end-to-end — from database schema and API design through to cloud deployment and production support.
+
+At **JBB Softech**, I lead product development across three live products spanning virtual tours, no-code app generation, and QR-based restaurant SaaS. Alongside that, I independently architect larger systems on my own time — an **enterprise HRMS** with Microsoft Entra ID single sign-on, and a **multi-account AWS control platform** with real infrastructure and billing operations — plus a government-backed **AI diagnostic platform** for early breast cancer screening.
+
+I care most about ownership: understanding a problem well enough to make the architecture decisions myself, not just implement someone else's spec. Currently open to **Software Engineer / Full-Stack / React Developer** roles in Chennai.
 
 <br/>
 
@@ -65,79 +58,83 @@ fun_fact: "I ship end-to-end — schema to UI to AWS deployment."
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### 🏢&nbsp; Enterprise HRMS — Modular ERP/CRM Foundation
+Architected to scale into a full ERP/CRM suite (Attendance, Payroll, Recruitment, CRM, Finance) as independently pluggable modules. Ships with Microsoft Entra ID single sign-on, automatic employee sync via Graph API, SharePoint document automation, and a 5-tier role-based access system.
 
-### 🏢 Enterprise HRMS
-Modular HRMS foundation built to scale into a full ERP/CRM suite — Microsoft Entra ID SSO, Graph API employee sync, SharePoint document automation, and 5-tier RBAC.
+![React](https://img.shields.io/badge/-React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Entra ID](https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-`React 19` `Vite` `Node.js` `PostgreSQL` `Entra ID` `Docker`
+<br/>
 
-</td>
-<td width="50%" valign="top">
+#### ☁️&nbsp; Project Management Suite — Multi-Account AWS Control Platform
+Standalone dashboard for managing multiple AWS accounts with **real** EC2 start/stop/reboot control and live Cost Explorer billing. Every account's credentials are individually AES-256-GCM encrypted, with automated cost-sync jobs, monthly reports, and scheduled instance on/off automation.
 
-### ☁️ Project Management Suite
-Multi-account AWS control platform with real EC2 start/stop, live Cost Explorer billing, AES-256-GCM encrypted credentials, and automated cost reporting.
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS%20SDK-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Security](https://img.shields.io/badge/-AES--256--GCM-6E40C9?style=flat-square&logo=letsencrypt&logoColor=white)
 
-`React` `Node.js` `PostgreSQL` `AWS SDK` `AES-256-GCM`
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+#### 🩺&nbsp; Breast Cancer Detection AI — Tamil Nadu Government
+AI-enabled diagnostic platform for early breast cancer screening from ultrasound images, covering the full workflow from case intake to automated report generation, with secure medical data handling.
 
-### 🩺 Breast Cancer Detection AI
-AI-enabled diagnostic platform for early breast cancer screening from ultrasound images — built for a Tamil Nadu Government initiative.
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
-`React` `Django` `PostgreSQL` `AWS EC2`
+<br/>
 
-</td>
-<td width="50%" valign="top">
+#### 🛒&nbsp; Full-Stack E-Commerce Platform
+End-to-end retail platform (dress/grocery/electronics) built for a Chennai-based client — Flutter Android app, React + Bootstrap admin panel, and a Node.js backend on a 24-table PostgreSQL schema, with Razorpay payments and Firebase push notifications.
 
-### 🛒 Full-Stack E-Commerce Platform
-End-to-end retail platform: Flutter Android app, React admin panel, Node.js backend on a 24-table schema, with Razorpay + Firebase push notifications.
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
-`Flutter` `React` `Node.js` `Razorpay`
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+#### 🥽&nbsp; VisualWalkin — Self-Service 360° Virtual Tour Platform
+Multi-tenant virtual tour platform with automated media processing workflows and centralized admin controls, enabling real-time content sync across tenant businesses. *(Product Lead)*
 
-### 🍽️ MyList4U — QR Menu SaaS
-Contactless digital menu system with tenant-isolated data and a real-time SSE-driven admin notification system.
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
-`React` `Node.js` `PostgreSQL` `SSE`
+<br/>
 
-</td>
-<td width="50%" valign="top">
+#### 📱&nbsp; Appifyours — No-Code Mobile App Generator
+Converts business inputs directly into branded, ready-to-publish mobile apps, with one-click APK build-and-release automation and tenant-based management.
 
-### 📱 Appifyours
-No-code platform that converts business inputs into branded, ready-to-publish mobile apps with one-click APK generation.
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 
-`Flutter` `Node.js` `PostgreSQL` `AWS`
+<br/>
 
-</td>
-</tr>
-</table>
+#### 🍽️&nbsp; MyList4U — QR-Powered Digital Menu SaaS
+Contactless restaurant menu system with tenant-isolated data management and a real-time, SSE-driven admin notification system covering 6 distinct business event types.
 
-</div>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+<br/>
+
+#### 🧠&nbsp; NeuroAssist AI — Learning Platform for Children
+Bilingual (English/Tamil) learning platform with six interactive activity modules — drawing, storytelling, sliding-tile puzzles, and karaoke with lyric highlighting — plus a real-time parent dashboard.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+#### 🧬&nbsp; TANBIO Biomed Genomics Laboratory Website
+Corporate website with a custom component design system, scroll-animated sections, glassmorphism contact form, and full input validation.
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arav2002&show_icons=true&theme=default&hide_border=true&title_color=2F5C8A&icon_color=2F815C&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arav2002&layout=compact&hide_border=true&title_color=2F5C8A&text_color=333333" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Arav2002&show_icons=true&theme=default&hide_border=true&title_color=2F5C8A&icon_color=2F815C&text_color=333333" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arav2002&layout=compact&hide_border=true&title_color=2F5C8A&text_color=333333" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arav2002&hide_border=true&background=FFFFFF&ring=2F5C8A&fire=2F815C&currStreakLabel=2F5C8A" />
+<img src="https://streak-stats.demolab.com/?user=Arav2002&hide_border=true&background=FFFFFF&ring=2F5C8A&fire=2F815C&currStreakLabel=2F5C8A" />
 </div>
+
+> **Note:** These cards are live services that pull directly from your public GitHub activity — they'll render correctly once this file is in your `Arav2002/Arav2002` profile repo. If a card ever goes blank again, it's almost always the free hosting instance being rate-limited, not your GitHub data — the fix is swapping in the maintained fork's domain, as done above.
 
 <br/>
 
