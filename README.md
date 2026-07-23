@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5C8A,100:2F815C&height=180&section=header&text=Aravinthan%20Aravazhi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Product%20Lead&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5C8A,100:2F815C&height=200&section=header&text=Hi%20there,%20I'm%20Aravinthan%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Product%20Lead%20%7C%20Full-Stack%20%2B%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/aravinth14">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aravindaravazhli@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Arav2002">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Arav2002&label=Profile%20Views&color=2f815c&style=flat" alt="profile views"/>
 
 </div>
 
